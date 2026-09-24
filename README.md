@@ -57,21 +57,8 @@ Total training spend ($1.59M), program count, completion rate, training attendan
 2. Pair the Performance dashboard with attrition/exit data (not in this dataset) to test whether "Needs Improvement" correlates with training failures.
 3. Use the department-level training cost view to evaluate ROI — Production's training spend should be checked against its performance/engagement scores, not just its headcount share.
 
-## Repo Contents
-
-```
-├── README.md
-├── screenshots/           # Dashboard exports
-│   ├── 01_workforce_overview.png
-│   ├── 02_performance_engagement.png
-│   └── 03_training_hr_investment.png
-└── data/
-    └── HR_Analytics_Dashboard.xlsx   # Full workbook: raw data, pivot analysis, dashboards
-```
 
 ## Skills Demonstrated
 
 Excel pivot tables & pivot charts · dashboard/UI design in Excel · KPI definition · data cleaning and validation · translating a flat dataset into a decision-support tool · business-oriented insight writing
 
----
-*Note: two dashboard slicers didn't render perfectly in the automated screenshot export — open the workbook in Excel for full interactivity.*
